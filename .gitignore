@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+scripts/sensors/output/
+*.mp4
+*.pcd
+*.ply
